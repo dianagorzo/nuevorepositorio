@@ -1,0 +1,26 @@
+* { /*  todos los elementos */
+ font-family: Arial, Helvetica,Verdana, sans-serif;
+ color: bisque;
+ }
+/* Regla de CSS*/
+/* Cascading style sheets CSS*/
+h1{
+  color: blue;
+  color: #FFFFFF;
+  color: #666;
+  color: rgb(255,0,0)
+  color:rgba(100,0,255,.5)
+}
+
+.cosas_azules{
+  color: skyblue;
+}
+.grande{
+  font-size: 3em;
+  font-weight: 400;
+}
+
+#nombre{
+  font-style: italic;
+}
+/* Selectores simples*/
